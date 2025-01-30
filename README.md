@@ -58,7 +58,7 @@ Se você precisa de alguém para estruturar, automatizar e otimizar sua infraest
 
 ### 🔥 Repositórios em Destaque
 🔹 [**Estudos DevOps**](https://github.com/rodrigoacelio/Estudos_DevOps) - Aprendizados práticos sobre DevOps e automação  
-🔹 [**Labs DevOps**]((https://github.com/rodrigoacelio/Laboratorios-para-DevOps)) - Projetos avançados e experimentos  
+🔹 [**Labs DevOps**](https://github.com/rodrigoacelio/Laboratorios-para-DevOps) - Projetos avançados e experimentos  
 
 📌 Confira todos os meus repositórios [aqui](https://github.com/rodrigoacelio?tab=repositories)!
 
