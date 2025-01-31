@@ -42,9 +42,9 @@ Se você precisa de alguém para estruturar, automatizar e otimizar sua infraest
 
 ### 💊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoacelio&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoacelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoacelio&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoalancelio&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoalancelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoalancelio&theme=dark"/>
 </p>
 
 ---
