@@ -50,7 +50,7 @@ Se você precisa de alguém para estruturar, automatizar e otimizar sua infraest
 ---
 
 ### 🏆 Certificações e Cursos
-🎓 **Microsoft Learn**: [Perfil](https://learn.microsoft.com/pt-br/users/rodrigoalanclio-9704/)  
+🎓 **Microsoft Learn**: [Perfil](https://learn.microsoft.com/pt-br/users/rodrigoalancelio-9704/)  
 🎓 **Credly** (Certificações): [Perfil](https://www.credly.com/users/rodrigo-celio)  
 🎓 **Google Cloud Skills Boost**: [Perfil](https://www.cloudskillsboost.google/public_profiles/424b7d97-aef6-4bf6-8c20-1fc6ab7d50ec)  
 
